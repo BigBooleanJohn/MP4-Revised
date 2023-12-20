@@ -1,0 +1,313 @@
+Script started on Thu May 11 19:33:36 2023
+[1m[7m%[27m[1m[0m                                                                             [0m[27m[24m[Jjohnmiller@Johns-MacBook-Air homework2 % [K[?2004hmmake main[?2004l
+make: `main' is up to date.
+[1m[7m%[27m[1m[0m                                                                             [0m[27m[24m[Jjohnmiller@Johns-MacBook-Air homework2 % [K[?2004h../ main     mi ain bad.txt[?2004l
+Error: incorrect command line arguments
+we need two text files for input and output in the command line
+[1m[7m%[27m[1m[0m                                                                             [0m[27m[24m[Jjohnmiller@Johns-MacBook-Air homework2 % [K[?2004h./main bad.txt[14Dmake main     [9D./main bad.txt error.txt[?2004l
+Unable to open file. an incorrect file name was given
+[1m[7m%[27m[1m[0m                                                                             [0m[27m[24m[Jjohnmiller@Johns-MacBook-Air homework2 % [K[?2004h./main bad.txt error.txt                output       f datafile.txt outputfile.txt[?2004l
+this program allows you to interact with data from the 2013 SF giants
+what would you like to do?
+option 1: view team roster
+option 2: view team averages compared to league averages
+option 3: view players sorted by shortest to tallest and print it to an output file
+option 4: view players sorted by least heavy to heaviest and print it to an outout file
+option 5: view players sorted by youngest to oldest and write it to an outout file
+put in the number you would like:1
+player 1: name: Tony Abreu, age 28, bats B, throws R, height 5.833333, weight: 200
+
+player 2: name: Ehire Adrianza, age 23, bats B, throws R, height 6.083333, weight: 198
+
+player 3: name: Jeremy Affeldt, age 34, bats L, throws L, height 6.333333, weight: 225
+
+player 4: name: Joaquin Arias, age 28, bats R, throws R, height 6.083333, weight: 185
+
+player 5: name: Brandon Belt, age 25, bats L, throws L, height 6.250000, weight: 230
+
+player 6: name: Grégor Blanco, age 29, bats L, throws L, height 5.833333, weight: 187
+
+player 7: name: Madison Bumgarner, age 23, bats R, throws L, height 6.333333, weight: 240
+
+player 8: name: Matt Cain, age 28, bats R, throws R, height 6.250000, weight: 230
+
+player 9: name: Santiago Casilla, age 32, bats R, throws R, height 6.000000, weight: 210
+
+player 10: name: Brandon Crawford, age 26, bats L, throws R, height 6.083333, weight: 223
+
+player 11: name: Jake Dunning, age 24, bats R, throws R, height 6.333333, weight: 190
+
+player 12: name: Jeff Francoeur, age 29, bats R, throws R, height 6.333333, weight: 225
+
+player 13: name: Chad Gaudin, age 30, bats R, throws R, height 5.833333, weight: 190
+
+player 14: name: Cole Gillespie, age 29, bats R, throws R, height 6.166667, weight: 215
+
+player 15: name: Heath Hembree, age 24, bats R, throws R, height 6.333333, weight: 220
+
+player 16: name: Mike Kickham, age 24, bats L, throws L, height 6.333333, weight: 220
+
+player 17: name: Roger Kieschnick, age 26, bats L, throws R, height 6.250000, weight: 225
+
+player 18: name: George Kontos, age 28, bats R, throws R, height 6.250000, weight: 225
+
+player 19: name: Tim Lincecum, age 29, bats L, throws R, height 5.916667, weight: 170
+
+player 20: name: Javier López, age 35, bats L, throws L, height 6.333333, weight: 220
+
+player 21: name: Jean Machi, age 31, bats R, throws R, height 5.916667, weight: 257
+
+player 22: name: Jose Mijares, age 28, bats L, throws L, height 5.916667, weight: 265
+
+player 23: name: Johnny Monell, age 27, bats L, throws R, height 6.083333, weight: 210
+
+player 24: name: Guillermo Moscoso, age 29, bats R, throws R, height 6.083333, weight: 200
+
+player 25: name: Nick Noonan, age 24, bats L, throws R, height 6.083333, weight: 185
+
+player 26: name: Ángel Pagán, age 31, bats B, throws R, height 6.166667, weight: 200
+
+player 27: name: Francisco Peguero, age 25, bats R, throws R, height 6.000000, weight: 190
+
+player 28: name: Hunter Pence, age 30, bats R, throws R, height 6.333333, weight: 216
+
+player 29: name: Juan Perez, age 26, bats R, throws R, height 5.916667, weight: 185
+
+player 30: name: Yusmeiro Petit, age 28, bats R, throws R, height 6.083333, weight: 252
+
+player 31: name: Brett Pill, age 28, bats R, throws R, height 6.333333, weight: 225
+
+player 32: name: Buster Posey, age 26, bats R, throws R, height 6.083333, weight: 213
+
+player 33: name: Guillermo Quiroz, age 31, bats R, throws R, height 6.083333, weight: 215
+
+player 34: name: Ramon Ramirez, age 31, bats R, throws R, height 5.916667, weight: 200
+
+player 35: name: Sergio Romo, age 30, bats R, throws R, height 5.916667, weight: 185
+
+player 36: name: Sandy Rosario, age 27, bats R, throws R, height 6.083333, weight: 205
+
+player 37: name: Héctor Sánchez, age 23, bats B, throws R, height 6.000000, weight: 220
+
+player 38: name: Pablo Sandoval, age 26, bats B, throws R, height 5.833333, weight: 268
+
+player 39: name: Marco Scutaro, age 37, bats R, throws R, height 5.833333, weight: 185
+
+player 40: name: Eric Surkamp, age 25, bats L, throws L, height 6.416667, weight: 220
+
+player 41: name: Kensuke Tanaka, age 32, bats L, throws R, height 5.750000, weight: 170
+
+player 42: name: Andres Torres, age 35, bats B, throws R, height 5.833333, weight: 195
+
+player 43: name: Ryan Vogelsong, age 35, bats R, throws R, height 6.333333, weight: 215
+
+player 44: name: Barry Zito, age 35, bats L, throws L, height 6.166667, weight: 205
+
+this program allows you to interact with data from the 2013 SF giants
+what would you like to do?
+option 1: view team roster
+option 2: view team averages compared to league averages
+option 3: view players sorted by shortest to tallest and print it to an output file
+option 4: view players sorted by least heavy to heaviest and print it to an outout file
+option 5: view players sorted by youngest to oldest and write it to an outout file
+put in the number you would like:2
+
+in 2013, the league average height is 6.08333333333 feet
+in 2013, the league average age is 27.8066666667 years
+in 2013, the league average age is 207 pounds
+average age of the 2013 giants is 28.500000
+average height of the 2013 giants is 6.098485
+average weight of the 2013 giants is 211.568182
+this program allows you to interact with data from the 2013 SF giants
+what would you like to do?
+option 1: view team roster
+option 2: view team averages compared to league averages
+option 3: view players sorted by shortest to tallest and print it to an output file
+option 4: view players sorted by least heavy to heaviest and print it to an outout file
+option 5: view players sorted by youngest to oldest and write it to an outout file
+put in the number you would like:3
+player 1 by height(feet) is Tanaka:  5.750000
+player 2 by height(feet) is Abreu:  5.833333
+player 3 by height(feet) is Blanco:  5.833333
+player 4 by height(feet) is Gaudin:  5.833333
+player 5 by height(feet) is Sandoval:  5.833333
+player 6 by height(feet) is Scutaro:  5.833333
+player 7 by height(feet) is Torres:  5.833333
+player 8 by height(feet) is Lincecum:  5.916667
+player 9 by height(feet) is Machi:  5.916667
+player 10 by height(feet) is Mijares:  5.916667
+player 11 by height(feet) is Perez:  5.916667
+player 12 by height(feet) is Ramirez:  5.916667
+player 13 by height(feet) is Romo:  5.916667
+player 14 by height(feet) is Casilla:  6.000000
+player 15 by height(feet) is Peguero:  6.000000
+player 16 by height(feet) is Sánchez:  6.000000
+player 17 by height(feet) is Adrianza:  6.083333
+player 18 by height(feet) is Arias:  6.083333
+player 19 by height(feet) is Crawford:  6.083333
+player 20 by height(feet) is Monell:  6.083333
+player 21 by height(feet) is Moscoso:  6.083333
+player 22 by height(feet) is Noonan:  6.083333
+player 23 by height(feet) is Petit:  6.083333
+player 24 by height(feet) is Posey:  6.083333
+player 25 by height(feet) is Quiroz:  6.083333
+player 26 by height(feet) is Rosario:  6.083333
+player 27 by height(feet) is Gillespie:  6.166667
+player 28 by height(feet) is Pagán:  6.166667
+player 29 by height(feet) is Zito:  6.166667
+player 30 by height(feet) is Belt:  6.250000
+player 31 by height(feet) is Cain:  6.250000
+player 32 by height(feet) is Kieschnick:  6.250000
+player 33 by height(feet) is Kontos:  6.250000
+player 34 by height(feet) is Affeldt:  6.333333
+player 35 by height(feet) is Bumgarner:  6.333333
+player 36 by height(feet) is Dunning:  6.333333
+player 37 by height(feet) is Francoeur:  6.333333
+player 38 by height(feet) is Hembree:  6.333333
+player 39 by height(feet) is Kickham:  6.333333
+player 40 by height(feet) is López:  6.333333
+player 41 by height(feet) is Pence:  6.333333
+player 42 by height(feet) is Pill:  6.333333
+player 43 by height(feet) is Vogelsong:  6.333333
+player 44 by height(feet) is Surkamp:  6.416667
+
+this program allows you to interact with data from the 2013 SF giants
+what would you like to do?
+option 1: view team roster
+option 2: view team averages compared to league averages
+option 3: view players sorted by shortest to tallest and print it to an output file
+option 4: view players sorted by least heavy to heaviest and print it to an outout file
+option 5: view players sorted by youngest to oldest and write it to an outout file
+put in the number you would like:4
+player 1 by weight(pounds) is Lincecum:  170.000000
+player 2 by weight(pounds) is Tanaka:  170.000000
+player 3 by weight(pounds) is Arias:  185.000000
+player 4 by weight(pounds) is Noonan:  185.000000
+player 5 by weight(pounds) is Perez:  185.000000
+player 6 by weight(pounds) is Romo:  185.000000
+player 7 by weight(pounds) is Scutaro:  185.000000
+player 8 by weight(pounds) is Blanco:  187.000000
+player 9 by weight(pounds) is Dunning:  190.000000
+player 10 by weight(pounds) is Gaudin:  190.000000
+player 11 by weight(pounds) is Peguero:  190.000000
+player 12 by weight(pounds) is Torres:  195.000000
+player 13 by weight(pounds) is Adrianza:  198.000000
+player 14 by weight(pounds) is Abreu:  200.000000
+player 15 by weight(pounds) is Moscoso:  200.000000
+player 16 by weight(pounds) is Pagán:  200.000000
+player 17 by weight(pounds) is Ramirez:  200.000000
+player 18 by weight(pounds) is Rosario:  205.000000
+player 19 by weight(pounds) is Zito:  205.000000
+player 20 by weight(pounds) is Casilla:  210.000000
+player 21 by weight(pounds) is Monell:  210.000000
+player 22 by weight(pounds) is Posey:  213.000000
+player 23 by weight(pounds) is Gillespie:  215.000000
+player 24 by weight(pounds) is Quiroz:  215.000000
+player 25 by weight(pounds) is Vogelsong:  215.000000
+player 26 by weight(pounds) is Pence:  216.000000
+player 27 by weight(pounds) is Hembree:  220.000000
+player 28 by weight(pounds) is Kickham:  220.000000
+player 29 by weight(pounds) is López:  220.000000
+player 30 by weight(pounds) is Sánchez:  220.000000
+player 31 by weight(pounds) is Surkamp:  220.000000
+player 32 by weight(pounds) is Crawford:  223.000000
+player 33 by weight(pounds) is Affeldt:  225.000000
+player 34 by weight(pounds) is Francoeur:  225.000000
+player 35 by weight(pounds) is Kieschnick:  225.000000
+player 36 by weight(pounds) is Kontos:  225.000000
+player 37 by weight(pounds) is Pill:  225.000000
+player 38 by weight(pounds) is Belt:  230.000000
+player 39 by weight(pounds) is Cain:  230.000000
+player 40 by weight(pounds) is Bumgarner:  240.000000
+player 41 by weight(pounds) is Petit:  252.000000
+player 42 by weight(pounds) is Machi:  257.000000
+player 43 by weight(pounds) is Mijares:  265.000000
+player 44 by weight(pounds) is Sandoval:  268.000000
+
+this program allows you to interact with data from the 2013 SF giants
+what would you like to do?
+option 1: view team roster
+option 2: view team averages compared to league averages
+option 3: view players sorted by shortest to tallest and print it to an output file
+option 4: view players sorted by least heavy to heaviest and print it to an outout file
+option 5: view players sorted by youngest to oldest and write it to an outout file
+put in the number you would like:5
+player 1 by age(years) is Adrianza:  23.000000
+player 2 by age(years) is Bumgarner:  23.000000
+player 3 by age(years) is Sánchez:  23.000000
+player 4 by age(years) is Dunning:  24.000000
+player 5 by age(years) is Hembree:  24.000000
+player 6 by age(years) is Kickham:  24.000000
+player 7 by age(years) is Noonan:  24.000000
+player 8 by age(years) is Belt:  25.000000
+player 9 by age(years) is Peguero:  25.000000
+player 10 by age(years) is Surkamp:  25.000000
+player 11 by age(years) is Crawford:  26.000000
+player 12 by age(years) is Kieschnick:  26.000000
+player 13 by age(years) is Perez:  26.000000
+player 14 by age(years) is Posey:  26.000000
+player 15 by age(years) is Sandoval:  26.000000
+player 16 by age(years) is Monell:  27.000000
+player 17 by age(years) is Rosario:  27.000000
+player 18 by age(years) is Abreu:  28.000000
+player 19 by age(years) is Arias:  28.000000
+player 20 by age(years) is Cain:  28.000000
+player 21 by age(years) is Kontos:  28.000000
+player 22 by age(years) is Mijares:  28.000000
+player 23 by age(years) is Petit:  28.000000
+player 24 by age(years) is Pill:  28.000000
+player 25 by age(years) is Blanco:  29.000000
+player 26 by age(years) is Francoeur:  29.000000
+player 27 by age(years) is Gillespie:  29.000000
+player 28 by age(years) is Lincecum:  29.000000
+player 29 by age(years) is Moscoso:  29.000000
+player 30 by age(years) is Gaudin:  30.000000
+player 31 by age(years) is Pence:  30.000000
+player 32 by age(years) is Romo:  30.000000
+player 33 by age(years) is Machi:  31.000000
+player 34 by age(years) is Pagán:  31.000000
+player 35 by age(years) is Quiroz:  31.000000
+player 36 by age(years) is Ramirez:  31.000000
+player 37 by age(years) is Casilla:  32.000000
+player 38 by age(years) is Tanaka:  32.000000
+player 39 by age(years) is Affeldt:  34.000000
+player 40 by age(years) is López:  35.000000
+player 41 by age(years) is Torres:  35.000000
+player 42 by age(years) is Vogelsong:  35.000000
+player 43 by age(years) is Zito:  35.000000
+player 44 by age(years) is Scutaro:  37.000000
+
+this program allows you to interact with data from the 2013 SF giants
+what would you like to do?
+option 1: view team roster
+option 2: view team averages compared to league averages
+option 3: view players sorted by shortest to tallest and print it to an output file
+option 4: view players sorted by least heavy to heaviest and print it to an outout file
+option 5: view players sorted by youngest to oldest and write it to an outout file
+put in the number you would like:7
+
+Bad input
+
+this program allows you to interact with data from the 2013 SF giants
+what would you like to do?
+option 1: view team roster
+option 2: view team averages compared to league averages
+option 3: view players sorted by shortest to tallest and print it to an output file
+option 4: view players sorted by least heavy to heaviest and print it to an outout file
+option 5: view players sorted by youngest to oldest and write it to an outout file
+put in the number you would like:12
+
+Bad input
+
+this program allows you to interact with data from the 2013 SF giants
+what would you like to do?
+option 1: view team roster
+option 2: view team averages compared to league averages
+option 3: view players sorted by shortest to tallest and print it to an output file
+option 4: view players sorted by least heavy to heaviest and print it to an outout file
+option 5: view players sorted by youngest to oldest and write it to an outout file
+put in the number you would like:6
+thank you!
+[1m[7m%[27m[1m[0m                                                                             [0m[27m[24m[Jjohnmiller@Johns-MacBook-Air homework2 % [K[?2004heexit[?2004l
+
+Script done on Thu May 11 19:34:46 2023

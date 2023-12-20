@@ -1,0 +1,16 @@
+I wanted to make a program that ca take data from the 2013 giants, save it to the 
+c program in structures, and then allow the user to choose from a variety of data analitics
+options. I need to make functions that store it into a linked list, and use that linked list
+to average and analyze the data
+
+[ckeck] it takes command line args
+
+[check] when given too few files, the program returns and issues a statement that tells the user
+how to recover.
+
+[check] when given the wrong files, the program checks to see if the pointer from fopen is null, and
+then issues errors accordingly
+
+[check] program properly stores the data from the datafile into a linked list
+
+[check]: when given the output to end the program, the program ends with a kind message
